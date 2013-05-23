@@ -1,4 +1,4 @@
-gifjif
+Is it pronounced "jif" or "gif"?
 ======
 
-Is it pronounced "jif"?
+A fair question that we will answer with absolute certainty.

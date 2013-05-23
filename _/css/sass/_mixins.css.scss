@@ -1,0 +1,22 @@
+$brandPrimary: #fff;
+$accent: #fc4f08;
+
+@mixin transition ($value) {
+  -moz-transition: $value;
+  -o-transition: $value;
+  -ms-transition: $value;
+  -webkit-transition: $value;
+  transition: $value;
+}
+
+*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box; -webkit-font-smoothing: antialiased;}
+html,body,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,figure,footer,header,hgroup,menu,nav,section,time,mark,audio,video,a{
+  margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;font-weight:inherit;
+}
+footer{display:block}
+body {margin:0; padding:0;}
+::-moz-selection{background:#ddd;color:#000;text-shadow:none}
+::selection{background:#ddd;color:#000;text-shadow:none}
+a:focus{outline:thin dotted}
+a:hover,a:active{outline:0}
+html,body{cursor:default;}
