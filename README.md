@@ -1,4 +1,4 @@
 gifjif
 ======
 
-Is it pronounced "jif"?
+It is pronounced "jif," bitches.
